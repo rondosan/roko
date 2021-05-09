@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /readme.html
+Disallow: /course-type/
+Disallow: /courses-landing/
+
+
+Sitemap: https://www.rcl.ac.uk/sitemap_index.xml
